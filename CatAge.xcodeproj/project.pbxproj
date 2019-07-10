@@ -12,6 +12,7 @@
 		83AC588B22D280C100A20722 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83AC588922D280C100A20722 /* Main.storyboard */; };
 		83AC588D22D280C200A20722 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83AC588C22D280C200A20722 /* Assets.xcassets */; };
 		83AC589022D280C200A20722 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83AC588E22D280C200A20722 /* LaunchScreen.storyboard */; };
+		83AC589822D2927700A20722 /* Cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 83AC589722D2927600A20722 /* Cat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		83AC588C22D280C200A20722 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83AC588F22D280C200A20722 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83AC589122D280C200A20722 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83AC589722D2927600A20722 /* Cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		83AC588422D280C100A20722 /* CatAge */ = {
 			isa = PBXGroup;
 			children = (
+				83AC589722D2927600A20722 /* Cat.jpeg */,
 				83AC588522D280C100A20722 /* AppDelegate.swift */,
 				83AC588722D280C100A20722 /* ViewController.swift */,
 				83AC588922D280C100A20722 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83AC589822D2927700A20722 /* Cat.jpeg in Resources */,
 				83AC589022D280C200A20722 /* LaunchScreen.storyboard in Resources */,
 				83AC588D22D280C200A20722 /* Assets.xcassets in Resources */,
 				83AC588B22D280C100A20722 /* Main.storyboard in Resources */,
